@@ -30,7 +30,7 @@ module.exports = {
     {
       icon: 'fa-facebook-f',
       name: 'Facebook',
-      url: 'https://facebook.com/devnamednick',
+      url: 'https://www.indiehackers.com/MustHaveSkill',
     },
   ],
   email: ' nicholasjkaufmann@gmail.com',
