@@ -77,7 +77,8 @@ const IndexPage = () => (
               </p>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">2011 - 2013</span>
+              <span className="text-primary">January 2014 - December 2015
+</span>
             </div>
           </div>
 

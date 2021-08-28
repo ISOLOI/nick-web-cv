@@ -1,14 +1,14 @@
 {
-  "name": "gatsby-starter-resume",
+  "name": "nick-web-cv",
   "version": "0.0.1",
-  "description": "Gatsby.js V2 starter template based on Resume by startbootstrap",
+  "description": "Hosted CV for Full-Stack NodeJS Experience",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-resume.git"
+    "url": "git+https://github.com/ISOLOI/nick-web-cv.git"
   },
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "Nick K",
+    "email": "nicholasjkaufmann@gmail.com"
   },
   "dependencies": {
     "gatsby": "^2.20.2",
